@@ -1,0 +1,7 @@
+.ref()-It is used to refer to particular nodes in the database.
+
+.on()-It tracks /listens to the changes made on the values of the referred(.ref()) nodes in the database .
+
+.set()-It changes/sets values to the referred node in the database .It can also create new child nodes .
+
+data.val-It fetches the values from the database to be stored in our code.
